@@ -1,7 +1,7 @@
 ﻿using UnityEditor;
 using UnityEngine;
 
-// IngredientDrawer
+// InventoryDrawer
 [CustomPropertyDrawer(typeof(Equipment))]
 public class InventoryDrawer : PropertyDrawer
 {
